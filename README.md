@@ -20,6 +20,17 @@ El repositorio está organizado de la siguiente manera:
 
 Este repositorio será utilizado durante todo el semestre para desarrollar, documentar y entregar las actividades prácticas del curso.
 
+## Flujo de trabajo
+
+El trabajo del curso seguirá un flujo básico:
+
+1. Desarrollar los ejercicios localmente.
+2. Verificar los cambios con `git status`.
+3. Revisar las diferencias con `git diff`.
+4. Agregar los cambios al staging.
+5. Crear un commit descriptivo.
+6. Sincronizar con GitHub mediante `git push`.
+
 ## Comandos básicos de Git
 
 Para consultar el estado actual del repositorio:
