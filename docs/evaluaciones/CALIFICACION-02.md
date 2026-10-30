@@ -24,8 +24,6 @@ No se encontró el laboratorio 2 en la rama `main` de su repositorio antes de la
 - Los últimos cambios suyos en el repositorio son del 14 de septiembre y corresponden al ejercicio de la semana 02 de clase.
 - Tampoco hay otras ramas con el trabajo.
 
-Como no hay nada que evaluar, todos los criterios quedan en cero.
-
 ## ¿El código funciona?
 No hay código del laboratorio para ejecutar.
 
